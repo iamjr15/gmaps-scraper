@@ -1,0 +1,3 @@
+/home/prospectss_node_staging_user/apps/prospectss-node-staging/logs/20201203-0000-01-access.log
+/home/prospectss_node_staging_user/apps/prospectss-node-staging/logs/20201204-0000-01-access.log
+/home/prospectss_node_staging_user/apps/prospectss-node-staging/logs/20201205-0000-01-access.log

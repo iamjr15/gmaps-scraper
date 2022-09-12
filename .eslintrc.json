@@ -1,0 +1,22 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es2021": true
+    },
+    "extends": [
+        "google"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 2020
+    },
+    "rules": {
+        "new-cap": "off",
+        "max-len": [1, 120],
+        "no-unused-vars": [1],
+        "prefer-const": [1],
+        "valid-jsdoc": [1],
+        "indent": ["error", 4],
+        "sort-imports": [1]
+    }
+}

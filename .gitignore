@@ -1,0 +1,10 @@
+.idea
+node_modules
+test_screenshots/*.png
+.env
+.DS_Store
+dev.log
+logs/*.log
+domainsearchresult.json
+sample_calls/scraped
+sample_calls/*.png
